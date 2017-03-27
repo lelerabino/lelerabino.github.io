@@ -6,6 +6,15 @@
   font-weight: lighter;
   font-style: normal; }
 
+.highlight1 {
+  font-size: 1.5em; }
+
+.highlight2 {
+  font-size: 1.3em; }
+
+.circular--square {
+  border-radius: 50%; }
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.

@@ -6,12 +6,16 @@
     <entry>
       <title><![CDATA[Hello World]]></title>
       <url>http://lele.com/2017/03/23/hello-world/</url>
-      <content type="html"><![CDATA[<h1 id="My-name-is-Emanuele-Rabino"><a href="#My-name-is-Emanuele-Rabino" class="headerlink" title="My name is Emanuele Rabino."></a>My name is Emanuele Rabino.</h1><h1 id="Call-me-Lele"><a href="#Call-me-Lele" class="headerlink" title="Call me Lele."></a>Call me Lele.</h1><p>I’m an italian web developer and this is my blog.<br>I will write about software development, but not only …</p>
-<blockquote>
-<p>Welcome on board and … enjoy the read :)</p>
-</blockquote>
+      <content type="html"><![CDATA[<p>My name is Emanuele Rabino.<br><span class="highlight1">Call me Lele.</span><br>I’m an italian web developer and this is my blog.<br>I will write about software development, digital photography, life, but not only …</p>
+<p><span class="highlight2">Welcome on board and … enjoy the read :)</span></p>
 ]]></content>
       
+        
+        <tags>
+            
+            <tag> announcement </tag>
+            
+        </tags>
         
     </entry>
     
