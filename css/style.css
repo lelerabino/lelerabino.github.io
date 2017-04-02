@@ -1282,5 +1282,8 @@ h6 {
 .circular--square {
   border-radius: 50%; }
 
-.home-true .post-content img {
+article.post .post-content img.img-post {
   display: none; }
+
+article.post.inpost-true .post-content img.img-post {
+  display: inline-block; }

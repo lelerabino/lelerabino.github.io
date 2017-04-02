@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lele Rabino&#39;s Blog</title>
+  <subtitle>test subtitle Lele blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
   
+  <link href="https://lelerabino.github.io/"/>
+  <updated>2017-03-31T09:03:37.389Z</updated>
+  <id>https://lelerabino.github.io/</id>
   
+  <author>
+    <name>Lele Rabino</name>
     
-    <entry>
-      <title><![CDATA[Just another Blog?!]]></title>
-      <url>https://lelerabino.github.io/2017/03/27/just-another-blog/</url>
-      <content type="html"><![CDATA[<h1 id="Quick-answer"><a href="#Quick-answer" class="headerlink" title="Quick answer"></a>Quick answer</h1><blockquote>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Just another Blog?!</title>
+    <link href="https://lelerabino.github.io/2017/03/27/just-another-blog/"/>
+    <id>https://lelerabino.github.io/2017/03/27/just-another-blog/</id>
+    <published>2017-03-27T12:29:50.000Z</published>
+    <updated>2017-03-31T09:03:37.389Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quick-answer"><a href="#Quick-answer" class="headerlink" title="Quick answer"></a>Quick answer</h1><blockquote>
 <p>Yes, precisely, this is just another blog.</p>
 </blockquote>
 <p>And below I want to share my specific motivations:<br><a id="more"></a><br><a href="https://500px.com/photo/192123781/dsc-by-emanuele-rabino" target="_blank" rel="external"><br>    <img class="nofancybox img-post" src="/2017/03/27/just-another-blog//blog-0.jpg" alt="green field"><br></a></p>
@@ -31,37 +47,48 @@
 <li>And finally because…<strong>why not</strong>?!</li>
 </ol>
 ]]></content>
-      
-        
-        <tags>
-            
-            <tag> blog </tag>
-            
-            <tag> life </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>https://lelerabino.github.io/2017/03/23/hello-world/</url>
-      <content type="html"><![CDATA[<p>My name is Emanuele Rabino.</p>
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Quick-answer&quot;&gt;&lt;a href=&quot;#Quick-answer&quot; class=&quot;headerlink&quot; title=&quot;Quick answer&quot;&gt;&lt;/a&gt;Quick answer&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Yes, precisely, this is just another blog.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And below I want to share my specific motivations:&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://lelerabino.github.io/tags/blog/"/>
+    
+      <category term="life" scheme="https://lelerabino.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lelerabino.github.io/2017/03/23/hello-world/"/>
+    <id>https://lelerabino.github.io/2017/03/23/hello-world/</id>
+    <published>2017-03-23T16:29:51.000Z</published>
+    <updated>2017-03-31T09:59:58.919Z</updated>
+    
+    <content type="html"><![CDATA[<p>My name is Emanuele Rabino.</p>
 <p><span class="highlight1">Call me Lele.</span></p>
 <p>I’m an italian front end developer and this is my blog.<br>I will write about software development, digital photography, life, but not only …<br><a id="more"></a><br><a href="https://500px.com/photo/192055009/dsc-by-emanuele-rabino" target="_blank" rel="external"><br>    <img class="nofancybox img-post" src="/2017/03/23/hello-world//blog-2.jpg" alt="water"><br></a><br><span class="highlight2">Welcome on board and … enjoy the read :)</span></p>
 ]]></content>
-      
-        
-        <tags>
-            
-            <tag> blog </tag>
-            
-            <tag> announcement </tag>
-            
-        </tags>
-        
-    </entry>
     
+    <summary type="html">
+    
+      &lt;p&gt;My name is Emanuele Rabino.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight1&quot;&gt;Call me Lele.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’m an italian front end developer and this is my blog.&lt;br&gt;I will write about software development, digital photography, life, but not only …&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://lelerabino.github.io/tags/blog/"/>
+    
+      <category term="announcement" scheme="https://lelerabino.github.io/tags/announcement/"/>
+    
+  </entry>
   
-  
-</search>
+</feed>
