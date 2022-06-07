@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lele Rabino&#39;s Blog</title>
+  
+  <subtitle>test subtitle Lele blog</subtitle>
+  <link href="https://lelerabino.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lelerabino.github.io/"/>
+  <updated>2022-06-06T15:22:13.709Z</updated>
+  <id>https://lelerabino.github.io/</id>
+  
+  <author>
+    <name>Lele Rabino</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Just another Blog?!</title>
+    <link href="https://lelerabino.github.io/2017/03/27/just-another-blog/"/>
+    <id>https://lelerabino.github.io/2017/03/27/just-another-blog/</id>
+    <published>2017-03-27T12:29:50.000Z</published>
+    <updated>2022-06-06T15:22:13.709Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quick-answer"><a href="#Quick-answer" class="headerlink" title="Quick answer"></a>Quick answer</h1><blockquote><p>Yes, precisely, this is just another blog.</p></blockquote><p>And below I want to share my specific motivations:</p><span id="more"></span><a href="https://500px.com/photo/192123781/dsc-by-emanuele-rabino">    <img class="nofancybox img-post" src="/2017/03/27/just-another-blog//blog-0.jpg" alt="green field"/></a># Why am I blogging?<ol><li><p>To force myself fighting <strong>stagnation and laziness</strong>. Blogging is a tangible proof of a journey. </p></li><li><p>Because I’m a follower of the <strong><a href="https://en.wikipedia.org/wiki/Carol_Dweck">grow-mindset</a></strong> theory; with this blog, I don’t want to demonstrate that <em>“Hey, I am super cool, I don’t fail!”</em>; instead I want to share that <em>“try, experiments, and failure are the most important ingredients for the next challenge”</em>.</p></li><li><p><strong>Sharing, communication</strong>: I’d like to found people to share my thoughts or my code and get any useful feedback.</p></li><li><p>As a developer, design and implement simply are not enough: I believe in the power of a <strong>team</strong> and, with a wider perspective, of the whole community; that’s why in my opinion the ability to convey with the right <strong>language</strong> the concepts, the experience and to listen to feedback is simply essentials. Blogging is one way to train this skill.</p></li><li><p>Because a blog is, after all, a (small) <strong>piece of web</strong> and I am a web developer. This way I can use it as a perfect container for my tests.</p></li><li><p>To improve <strong>my English</strong>! I must apologize for my very basic level and for my mistakes, but I don’t want that my first language (Italian) to be a bottleneck for a potential friend, collaborators or simply interesting people.</p></li></ol><h1 id="Why-Now"><a href="#Why-Now" class="headerlink" title="Why Now?"></a>Why Now?</h1><p>Another question that I posed to myself when I started this blog was: <em>why now?</em>.<br>In this case, the answers are also very specific to my own experience:</p><ol><li>Because I am in the middle of a <strong>turning point</strong> in my career and my life; I finished an important chapter of my professional path and I am about to start a new exciting adventure, which involves a radical change in terms of working team, environment, technology, logistics and so on. For these reasons the motivation and the timing are perfect, I think, to create something that for many years was spinning in my mind but I always postponed.</li><li>Because the web development ecosystem is changing a lot in the last years: the web platform progresses, the open source explosion, the whole community ability to contribute and give immediate feedback… all these aspects make this <em>job</em> very exciting but also the meaning of <strong>seniority</strong> and <strong>skillset</strong> are becoming much more volatiles; blogging in my opinion, together with public coding, is the right way to grow and contribute as an active part of the whole community.</li><li>And finally because…<strong>why not</strong>?!</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Quick-answer&quot;&gt;&lt;a href=&quot;#Quick-answer&quot; class=&quot;headerlink&quot; title=&quot;Quick answer&quot;&gt;&lt;/a&gt;Quick answer&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Yes, precisely, this is just another blog.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And below I want to share my specific motivations:&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="blog" scheme="https://lelerabino.github.io/tags/blog/"/>
+    
+    <category term="life" scheme="https://lelerabino.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lelerabino.github.io/2017/03/23/hello-world/"/>
+    <id>https://lelerabino.github.io/2017/03/23/hello-world/</id>
+    <published>2017-03-23T16:29:51.000Z</published>
+    <updated>2022-06-06T15:22:13.709Z</updated>
+    
+    <content type="html"><![CDATA[<p>My name is Emanuele Rabino.</p><p><span class="highlight1">Call me Lele.</span></p><p>I’m an italian front end developer and this is my blog.<br>I will write about software development, digital photography, life, but not only …</p><span id="more"></span><a href="https://500px.com/photo/192055009/dsc-by-emanuele-rabino">    <img class="nofancybox img-post" src="/2017/03/23/hello-world//blog-2.jpg" alt="water"/></a><span class="highlight2">Welcome on board and ... enjoy the read :)</span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;My name is Emanuele Rabino.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;highlight1&quot;&gt;Call me Lele.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’m an italian front end developer and this is my blog.&lt;br&gt;I will write about software development, digital photography, life, but not only …&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="announcement" scheme="https://lelerabino.github.io/tags/announcement/"/>
+    
+    <category term="blog" scheme="https://lelerabino.github.io/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
