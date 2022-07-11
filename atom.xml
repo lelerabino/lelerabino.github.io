@@ -57,9 +57,9 @@
     
     
     
-    <category term="announcement" scheme="https://lelerabino.github.io/tags/announcement/"/>
-    
     <category term="blog" scheme="https://lelerabino.github.io/tags/blog/"/>
+    
+    <category term="announcement" scheme="https://lelerabino.github.io/tags/announcement/"/>
     
   </entry>
   
